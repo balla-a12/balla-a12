@@ -36,9 +36,9 @@ ARIMA return forecasting and GARCH/GJR-GARCH volatility modeling on financial re
 
 ## Background
 
-I've spent 8 years as a data analyst supporting growth, SEO, marketing, and e-commerce decisions — at companies including **LinkedIn**, **Distinguished Programs**, and **iFrog Marketing Solutions** — with a consistent focus on the quantitative and financial side: forecasts, predictive models, NPV/LTV/CAC analyses, and risk-vs-return sizing of business initiatives.
+I've spent 8 years as a data analyst supporting growth, SEO, marketing, and e-commerce decisions at companies including **LinkedIn**, **Distinguished Programs**, and **iFrog Marketing Solutions**, with a consistent focus on the quantitative and financial side: forecasts, predictive models, NPV/LTV/CAC analyses, and risk-vs-return sizing of business initiatives.
 
-The MSFE is the deliberate next step: formalizing the mathematical foundation and moving toward roles in financial analytics, quant research, and risk.
+Pursuing a MSFE is a deliberate next step: formalizing my mathematical foundation and moving toward roles in financial analytics, quant research, and risk.
 
 ---
 
@@ -52,9 +52,9 @@ The MSFE is the deliberate next step: formalizing the mathematical foundation an
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[handle])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-balla)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aballa1234@gmail.com)
 
 ---
 
-*Currently open to financial data analyst, quant analyst, and fintech data science roles.*
+*Currently open to financial data analyst, quant analyst, and fintech data science roles & internships.*
